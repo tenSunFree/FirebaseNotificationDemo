@@ -6,8 +6,11 @@
 
 取材自以下資源
 --------
-How to Start a Foreground Service in Android (With Notification Channels)                                  
-https://www.youtube.com/watch?v=FbpD5RZtbCc
+Sending Push Notifications to Android app using Firebase Cloud Messaging - Tutorial                                 
+https://www.youtube.com/watch?v=Jhv-Pb8l05M
+
+ForegroundServiceDemo                                  
+https://github.com/tenSunFree/ForegroundServiceDemo
                           
 預覽
 --------
